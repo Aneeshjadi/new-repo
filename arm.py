@@ -1,3 +1,5 @@
+THIS IS THE ARMSTRNG NUMBER CODING 
+
 n=input ("enter any number")
 m=int(n)
 sum=0
